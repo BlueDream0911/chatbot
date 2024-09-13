@@ -13,7 +13,7 @@ Application saves your mail and password only.
 
 You can develop app yourself by adding saving picture and messages feature.
 
-## :pushpin: _GUI and examples_
+## :pushpin: _GUI and examples _
 
 ![ChB 1](/images/ChatBlue1.jpg)
 
